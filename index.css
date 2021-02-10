@@ -1,0 +1,17 @@
+body {}
+
+#form {
+    border: black 1px solid;
+    width: 500px;
+    height: 500px;
+}
+
+#title {
+    background-color: rgb(16, 108, 200);
+    color: white;
+    height: 40px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
